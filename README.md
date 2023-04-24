@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 Hola, sean bienvenidos a mi perfil 🥰:
 
 👋 Quien soy?
@@ -27,4 +24,3 @@ Link del deploy: https://educacionsanitaria.org
 ✅️ Instagram : lauti_heredia_edu
 ✅️ Gmail : lautaro12heredia@gmail.com
 ✅️ GitHub : LautyUsername
--->
