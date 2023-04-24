@@ -21,6 +21,6 @@ Link del deploy: https://educacionsanitaria.org
 🫡 Redes :
 
 ✅️ WhatsApp : +542915767762
-✅️ Instagram : lauti_heredia_edu
+✅️ Linkedln: https://www.linkedin.com/in/lautaro-eduardo-heredia-179109237/
 ✅️ Gmail : lautaro12heredia@gmail.com
 ✅️ GitHub : LautyHeredia
